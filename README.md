@@ -29,3 +29,11 @@ findMin(shoes);
 findMax(shoes);
 editShoes(shoes, "M4356", "HEELS", "H8017", 5, 45.78);
 sortShoes(shoes);
+
+## Functions
+findShoe(shoeName)
+Searches for a shoe by its name in the inventory array and logs the details of the found shoe.
+
+Parameters:
+shoeName (string): The name of the shoe to search for.
+
