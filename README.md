@@ -25,8 +25,8 @@ To run this code locally, follow these steps:
 `findShoe(shoeName)`
 Searches for a shoe by its name in the inventory array and logs the details of the found shoe.
 
-Parameters:
-shoeName (string): The name of the shoe to search for.
+- Parameters:
+    - shoeName (string): The name of the shoe to search for.
 
 `findMin(arr)`
 Finds and logs the shoe with the lowest value per item in the given array.
@@ -37,25 +37,25 @@ Finds and logs the shoe with the lowest value per item in the given array.
 `findMax(arr)`
 Finds and logs the shoe with the highest value per item in the given array.
 
-Parameters:
-arr (array): The array of shoe objects.
+- Parameters:
+    - arr (array): The array of shoe objects.
 
 `editShoes(shoes, shoeProductCode, newName, newProductCode, newQuantity, newValuePerItem)`
 Edits the details of a shoe in the inventory array based on the given product code.
 
-Parameters:
-shoes (array): The array of shoe objects.
-shoeProductCode (string): The product code of the shoe to edit.
-newName (string): The new name of the shoe.
-newProductCode (string): The new product code of the shoe.
-newQuantity (number): The new quantity of the shoe.
-newValuePerItem (number): The new value per item of the shoe.
+- Parameters:
+    - shoes (array): The array of shoe objects.
+    - shoeProductCode (string): The product code of the shoe to edit.
+    - newName (string): The new name of the shoe.
+    - newProductCode (string): The new product code of the shoe.
+    - newQuantity (number): The new quantity of the shoe.
+    - newValuePerItem (number): The new value per item of the shoe.
 
 `sortShoes(shoes)`
 Sorts the shoe inventory array in ascending order based on the value per item and logs the sorted array.
 
-Parameters:
-shoes (array): The array of shoe objects.
+- Parameters:
+    - shoes (array): The array of shoe objects.
 
 ## Credits
 This project was created by Aswini2027 as part of a coding task. The functions were implemented to manage a shoe inventory, allowing for various operations such as searching, finding minimum and maximum values, editing, and sorting.
