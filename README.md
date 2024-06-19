@@ -58,7 +58,7 @@ Sorts the shoe inventory array in ascending order based on the value per item an
     - shoes (array): The array of shoe objects.
 
 ## Credits
-This project was created by Aswini2027 as part of a coding task. The functions were implemented to manage a shoe inventory, allowing for various operations such as searching, finding minimum and maximum values, editing, and sorting.
+This project was created by Aswini as part of a coding task. The functions were implemented to manage a shoe inventory, allowing for various operations such as searching, finding minimum and maximum values, editing, and sorting.
 
 ## Usage
 To use the shoe inventory management system, open the `inventory.js` file in your code editor and run it using Node.js. You can call the following functions:
