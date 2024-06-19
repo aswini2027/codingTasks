@@ -31,8 +31,8 @@ shoeName (string): The name of the shoe to search for.
 `findMin(arr)`
 Finds and logs the shoe with the lowest value per item in the given array.
 
-Parameters:
-arr (array): The array of shoe objects.
+- Parameters:
+    - arr (array): The array of shoe objects.
 
 `findMax(arr)`
 Finds and logs the shoe with the highest value per item in the given array.
